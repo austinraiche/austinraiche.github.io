@@ -21,10 +21,17 @@ h4 {
 	font-family: 'Times New Roman', serif;
 }
 h3 {
+	font-family: 'Oswald', sans-serif;
 	font-size: 30px;
 }
 
 
+.oswald-subhead {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
 /*Don't worry about this section yet*/
 @media only screen and (max-width: 767px)
 {
