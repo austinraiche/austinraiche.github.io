@@ -1,19 +1,22 @@
 /*This is the CSS page for our final template.*/
-
+    p {
+        font-family: 'Times New Roman', serif;
+        font-size: 20px;
+    }
 .footer p { /* This is how you add styles for only the p text within the footer. */
-	background-color: #whitesmoke;
+	background-color: #F0CEA0;
 	text-align: center;
 	font-family: 'Times New Roman', serif;
-	font-size: 20px;
+	font-size: 15px;
 	margin-bottom: 0;
 }
 .header {
 	height: auto;
 	font-weight: bold;
-	font-size: 50px;
+	font-size: 40px;
 	text-align: center;
 	font-family: 'Times New Roman', serif;
-	background-color: skyblue;
+	background-color: #F0CEA0;
 }
 h4 {
 	font-style: italic;
@@ -22,16 +25,22 @@ h4 {
 }
 h3 {
 	font-family: 'Oswald', sans-serif;
-	font-size: 30px;
+	font-size: 40px;
 }
 
-
+ img {
+        float: right;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
 .oswald-subhead {
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
+
+
 /*Don't worry about this section yet*/
 @media only screen and (max-width: 767px)
 {
