@@ -2,7 +2,7 @@
 
 p {
 	font-family: 'Times New Roman', serif;
-	font-size: 20px;
+	font-size: 15px;
 }
 .footer p { /* This is how you add styles for only the p text within the footer. */
 	background-color:#F0CEA0;
