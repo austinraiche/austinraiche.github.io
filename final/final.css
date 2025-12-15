@@ -15,14 +15,13 @@ p {
 	font-weight: bold;
 	font-size: 50px;
 	text-align: center;
-	font-family: 'Georgia', serif;
+	font-family: 'Oswald', serif;
 	background-color: #F0CEA0;
 	color: #black;
 }
 h2 {
-	font-style: italic;
 	font-size: 40px;
-	font-family: 'Georgia', serif;
+	font-family: 'Oswald', serif;
 }
 h3 {
 	font-size: 30px;
